@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="wynik">Podaj działanie:</string>
+    <string name="dod">+</string>
+    <string name="mno">*</string>
+    <string name="dziel">/</string>
+    <string name="row">=</string>
+    <string name="c">C</string>
+</resources>
